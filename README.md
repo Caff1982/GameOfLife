@@ -2,6 +2,8 @@
 
 This is a python implementation of Conway's Game of Life using the pygame module as a GUI.
 
+![](https://github.com/Caff1982/GameOfLife/blob/master/images/example.gif)
+
 ### Description
 
 The purpose of this project is to provide a simple but versatile application to explore cellular automata, specifically Conway's Game of Life.
